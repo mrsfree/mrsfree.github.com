@@ -4,12 +4,20 @@ ToDo
 [X] Template Subpage
 [ ] Language selection
 [ ] Back Home Button
+[ ] Noscript
 [ ] Content
 
 
 ```
-<ow type="text" value="lang.welcome"></ow>
-<ow type="loop" value="myArray">
- Nummer: <ow type="text" value="lang.myArray[_owi]"></ow>
+<ow type="text" value="texts.welcome"></ow>
+
+<ow type="loop" value="texts.myObject">
+ Nummer: <ow type="text" value="{{owi}}.number"></ow> //myObject.abc.number
+ Description: <ow type="text" value="{{owi}}.description"></ow>
+</ow>
+
+<ow type="loop" value="texts.myArray">
+ Nummer: <ow type="text" value="{{owi}}.number"></ow>	//myArray[4].number
+ Description: <ow type="text" value="{{owi}}.description"></ow>
 </ow>
 ```
