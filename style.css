@@ -10,6 +10,11 @@ body {
 	background-size: cover;
 }
 
+.whitecloud {
+	background: rgba(255,255,255,0.2);
+	box-shadow: rgba(255,255,255,0.2) 0px 0px 16px 16px;
+}
+
 #greeter {
 	margin-top: 50vh;
 	margin-left: 50vw;
@@ -19,15 +24,11 @@ body {
 	position: relative;
 	width: 64%;
 	text-align: center;
-	background: rgba(255,255,255,0.2);
-	box-shadow: rgba(255,255,255,0.2) 0px 0px 16px 16px;
 }
 
 nav {
 	font-size: 3em;
 	display: block;
-	background: rgba(255,255,255,0.2);
-	box-shadow: rgba(255,255,255,0.2) 0px 0px 16px 16px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -37,6 +38,8 @@ nav {
 
 nav > a {
 	display: inline-block;
+	color: inherit;
+	text-decoration: inherit;
 	height: 100%;
 	width: 16.5vw;
 	min-width: 180px;
@@ -50,4 +53,14 @@ nav > a:hover {
 	cursor: pointer;
 	box-shadow: rgba(255,255,255,0.3) 0px 0px 16px 16px;
 	background: rgba(255,255,255,0.3);
+}
+
+h1 {font-size: 4em; text-align: center;} h2 {font-size: 3em} h3 {font-size: 2.5em} h4 {font-size: 2em} p {font-size: 1.6em;}
+
+main {
+	margin: auto;
+	width: 100%;
+	max-width: 640px;
+	padding: 16px;
+	padding-top: 0px;
 }
