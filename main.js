@@ -22,23 +22,32 @@ const ow = {
 
 // ##########  END Oskarlib
 
-const de_DE = {
-	greet: "Mrs. Free erklärt die Welt",
-	about: "Über mich",
-	astro: "Astrologie",
-	coach: "Coaching",
-	nutri: "Ernährung",
-	coste: "Aufstellungen"
-}, en_US = {
-	greet: "Mrs. Free explains the world",
-	about: "About Me",
-	astro: "Astrology",
-	coach: "Coaching",
-	nutri: "Nutrition",
-	coste: "Comstellations"
-};
+const langs = {
+	de_DE: {
+		title: "Deutsch",
+		greet: "Mrs. Free erklärt die Welt",
+		about: "Über mich",
+		astro: "Astrologie",
+		coach: "Coaching",
+		nutri: "Ernährung",
+		coste: "Aufstellungen"
+	},
+	en_US: {
+		title: "English",
+		greet: "Mrs. Free explains the world",
+		about: "About Me",
+		astro: "Astrology",
+		coach: "Coaching",
+		nutri: "Nutrition",
+		coste: "Constellations"
+	}
+}
 
-var lang = en_US;
+if (!localStorage.getItem("lang")) {
+	localStorage.setItem("lang", "en_US");
+}
+
+var lang = langs[localStorage.getItem("lang")];
 ow.update();
 
 function switchlang() {
