@@ -1,33 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Slabo+27px');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
 body {
 	color: #000577;
-	font-family: 'Slabo 27px';
 	font-family: 'Amatic SC';
 	font-weight: bold;
 	margin: 0;
 	padding: 0;
-}
-
-#wrapper {
-	margin: auto;
-	height: 100vmin;
-	width: calc(100vmin*1.33333333);
-	height: 100vh;
-	width: 100vw;
 	background: url(/img/Tets.JPG) no-repeat center top fixed;
-	background-size: 100%;
-	overflow: hidden;
-}
-
-#main {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100%;
+	background-size: cover;
 }
 
 #greeter {
+	margin-top: 50vh;
+	margin-left: 50vw;
+	transform: translate(-50%,-50%);
 	display: block;
 	font-size: 7em;
 	position: relative;
@@ -38,24 +24,26 @@ body {
 }
 
 nav {
-	transform: translateY(-240px);
 	font-size: 3em;
-	height: 10%;
 	display: block;
 	background: rgba(255,255,255,0.2);
 	box-shadow: rgba(255,255,255,0.2) 0px 0px 16px 16px;
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 10%;
 }
 
 nav > a {
 	display: inline-block;
 	height: 100%;
 	width: 16.5vw;
+	min-width: 180px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	transition: all .2s ease-in-out;
 }
 
 nav > a:hover {
@@ -63,8 +51,3 @@ nav > a:hover {
 	box-shadow: rgba(255,255,255,0.3) 0px 0px 16px 16px;
 	background: rgba(255,255,255,0.3);
 }
-/*
-nav > a:hover > span {
-	box-shadow: rgba(255,255,255,0.4) 0px 0px 8px 8px;
-	background: rgba(255,255,255,0.4);
-}*/
