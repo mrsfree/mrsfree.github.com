@@ -20,14 +20,14 @@ body {
 	margin-left: 50vw;
 	transform: translate(-50%,-50%);
 	display: block;
-	font-size: 7em;
+	font-size: 12vmin;
 	position: relative;
 	width: 64%;
 	text-align: center;
 }
 
 nav {
-	font-size: 3em;
+	font-size: 8vmin;
 	display: block;
 	display: flex;
 	flex-wrap: wrap;

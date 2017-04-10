@@ -2,7 +2,7 @@ ToDo
 
 [X] Background Scaling
 [X] Template Subpage
-[ ] Language selection
+[ ] Language selection plus Autochoose
 [ ] Back Home Button
 [ ] Noscript
 [ ] Content
