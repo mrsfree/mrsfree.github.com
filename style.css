@@ -27,7 +27,7 @@ body {
 }
 
 nav {
-	font-size: 8vmin;
+	font-size: 3em;
 	display: block;
 	display: flex;
 	flex-wrap: wrap;
