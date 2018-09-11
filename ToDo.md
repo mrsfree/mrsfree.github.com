@@ -4,7 +4,6 @@ ToDo
 [X] Template Subpage
 [ ] Language selection plus Autochoose
 [ ] Back Home Button
-[ ] Noscript
 [ ] Content
 
 
