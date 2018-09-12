@@ -1,6 +1,12 @@
 @charset "UTF-8";
 /* @import "main"; */
 @import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+html {
+  height: 100vh;
+  width: 100vw;
+  background: url(img/bg.jpg) no-repeat center top fixed;
+  background-size: cover; }
+
 body {
   display: block;
   width: 100%;
@@ -10,9 +16,7 @@ body {
   font-size: calc( 1vmin + 16px);
   margin: 0;
   padding: 0;
-  text-align: center;
-  background: url(img/bg.jpg) no-repeat center top fixed;
-  background-size: cover; }
+  text-align: center; }
 
 .whitecloud {
   background: rgba(255, 255, 255, 0.2);
