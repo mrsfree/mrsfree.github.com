@@ -1,21 +1,9 @@
 de:
   title: Mrs. Free
   subtitle: Erklärt die Welt
-  home:
-    name: Zur Startseite
-    link: /
   langswitch: Switch to english version
-  imprint:
-    name: Impressum
-    link: /de/impressum.html
 
 en:
   title: Mrs. Free
   subtitle: Explains the World
-  home:
-    name: To Homepage
-    link: /en/
   langswitch: Zur deutschen Version wechseln
-  imprint:
-    name: Legal Info
-    link: /en/imprint.html
