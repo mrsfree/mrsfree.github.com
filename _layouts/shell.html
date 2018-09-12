@@ -5,5 +5,7 @@
 		{% include header.html %}
 		{{ content }}
 	</body>
-	<script src="http://127.0.0.1:35729/livereload.js">
+	{% if jekyll.environment == "development" %}
+		<script src="http://127.0.0.1:35729/livereload.js">
+	{% endif %}
 </html>
