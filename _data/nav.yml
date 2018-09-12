@@ -61,3 +61,21 @@
   en:
     name: Blog
     link: /en/blog.html
+
+- ref: home
+  de:
+    name: Zur Startseite
+    link: /
+  en:
+    name: To Homepage
+    link: /en/
+  hidden: true
+
+- ref: imprint
+  de:
+    name: Impressum
+    link: /de/impressum.html
+  en:
+    name: Legal Info
+    link: /en/imprint.html
+  hidden: true

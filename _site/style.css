@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* @import "main"; */
 @import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 body {
@@ -6,6 +7,7 @@ body {
   color: #000577;
   font-family: 'Amatic SC';
   font-weight: bold;
+  font-size: calc( 1vmin + 16px);
   margin: 0;
   padding: 0;
   text-align: center;
@@ -16,8 +18,8 @@ body {
   background: rgba(255, 255, 255, 0.2);
   box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 16px 16px; }
   .whitecloud.dense {
-    background: rgba(255, 255, 255, 0.4);
-    box-shadow: rgba(255, 255, 255, 0.4) 0px 0px 16px 16px; }
+    background: rgba(255, 255, 255, 0.5);
+    box-shadow: rgba(255, 255, 255, 0.5) 0px 0px 16px 16px; }
 
 #greeter {
   display: inline-block;
@@ -34,31 +36,33 @@ nav {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center; }
-  nav > a {
-    color: inherit;
-    text-decoration: inherit;
-    height: 100%;
-    margin: .2em .4em;
-    transition: all .2s ease-in-out; }
-    nav > a:hover {
-      cursor: pointer;
-      box-shadow: rgba(255, 255, 255, 0.3) 0px 0px 16px 16px;
-      background: rgba(255, 255, 255, 0.3); }
+
+nav a, header a {
+  color: inherit;
+  text-decoration: inherit;
+  height: 100%;
+  margin: .2em .4em;
+  transition: all .2s ease-in-out; }
+  nav a:hover, header a:hover {
+    cursor: pointer;
+    box-shadow: rgba(255, 255, 255, 0.3) 0px 0px 16px 16px;
+    background: rgba(255, 255, 255, 0.3); }
 
 h1 {
-  font-size: calc(10vmin + 24px); }
+  font-size: calc(10vmin + 24px);
+  margin-bottom: 0.2em; }
 
 h2 {
-  font-size: calc(6vmin + 24px); }
+  font-size: calc( 6vmin + 24px); }
 
 h3 {
-  font-size: calc(4vmin + 24px); }
+  font-size: calc( 4vmin + 24px); }
 
 h4 {
-  font-size: calc(2vmin + 24px); }
+  font-size: calc( 2vmin + 24px); }
 
 p {
-  font-size: calc(1vmin + 16px); }
+  font-size: calc( 1vmin + 16px); }
 
 main {
   margin: auto;
@@ -68,3 +72,31 @@ main {
   padding-top: 0px; }
   main p {
     text-align: justify; }
+
+header {
+  margin-top: 10px; }
+  header ul {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside; }
+    header ul li {
+      display: inline-block; }
+      header ul li:not(:first-child):before {
+        content: "•"; }
+
+figure#portrait {
+  float: right;
+  margin: 0 0 .5em 1em; }
+  figure#portrait img {
+    display: block;
+    width: 100%;
+    max-width: 300px; }
+  figure#portrait figcaption {
+    font-size: calc(.5vmin + 12px); }
+  @media (max-width: 555px) {
+    figure#portrait {
+      display: block;
+      margin: auto;
+      float: none; }
+      figure#portrait img {
+        margin: auto; } }

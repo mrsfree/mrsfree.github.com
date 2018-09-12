@@ -4,13 +4,17 @@ title: Über Mich
 lang: de
 ref: about
 ---
-Diese Webseite ist noch im Bau. Kommen Sie bitte in ein paar Tagen wieder. Bis dann :)
-
 Ich stamme aus einer Medizinerfamilie - und eigentlich wusste ich schon
-als Kind, dass ich entweder Ärztin oder Apothekerin werden wollte. Mit
-16, kurz vor dem Abitur, kam mir dann Punkrock & politisches Erwachen
-dazwischen. Nach einer eigenen schweren Krankheit wurde mir klar, daß
-die Schulmedizin nicht so allmächtig war, wie ich bis dahin angenommen
+als Kind, dass ich entweder Ärztin oder Apothekerin werden wollte.
+
+<figure id="portrait">
+	<img alt="Portrait Katharina Winkels" src="/img/portrait.jpg">
+	<figcaption>Katharina Winkels (Foto von Natascha Stellmach)</figcaption>
+</figure>
+
+Mit 16, kurz vor dem Abitur, kam mir dann Punkrock & politisches
+Erwachen dazwischen. Nach einer eigenen schweren Krankheit wurde mir klar,
+dass die Schulmedizin nicht so allmächtig war, wie ich bis dahin angenommen
 hatte. Und daß Pharmaindustrie möglichweise auch andere Ziele verfolgte
 als nur die Menschheit gesünder zu machen.
 

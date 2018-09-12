@@ -1,8 +1,0 @@
-{% assign refs=site.data.nav | where:"ref", page.ref %}
-<a href="{% if page.lang == 'en' %}
-			{{ refs[0].de.link }}
-		{% elsif  page.lang == 'de' %}
-			{{ refs[0].en.link }}
-		{% endif %}">
-	{{ site.data.common[page.lang].langswitch }}
-</a>

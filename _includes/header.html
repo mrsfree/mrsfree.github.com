@@ -1,0 +1,28 @@
+<header class="whitecloud">
+	<ul>
+		{% if page.title != "Home" %}
+			<li>
+				{% assign home=site.data.nav | where:"ref", "home" %}
+				<a href="{{ home.first[page.lang].link }}">
+					{{ home.first[page.lang].name }}
+				</a>
+			</li>
+		{% endif %}
+		<li>
+			{% assign refs=site.data.nav | where:"ref", page.ref %}
+			<a href="{% if page.lang == 'en' %}
+						{{ refs.first.de.link }}
+					{% elsif  page.lang == 'de' %}
+						{{ refs.first.en.link }}
+					{% endif %}">
+				{{ site.data.common[page.lang].langswitch }}
+			</a>
+		</li>
+		<li>
+			{% assign imprint=site.data.nav | where:"ref", "imprint" %}
+			<a href="{{ imprint.first[page.lang].link }}">
+				{{ imprint.first[page.lang].name }}
+			</a>
+		</li>
+	</ul>
+</header>

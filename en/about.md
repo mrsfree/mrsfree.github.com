@@ -4,10 +4,13 @@ title: About Me
 lang: en
 ref: about
 ---
-This Website is still under construction. Please check back in a few weeks. See you then :)
-
 My mother taught medicine at the university - and I knew at age 5 that I
 wanted to become either a physician or work in a pharmaceutical company.
+
+<figure id="portrait">
+	<img alt="Portrait Katharina Winkels" src="/img/portrait.jpg">
+	<figcaption>Katharina Winkels (Photo by Natascha Stellmach)</figcaption>
+</figure>
 
 At 16, shortly before I finished school, I discovered punk and politics.
 After a severe liver disease that conventional medicine could not help
