@@ -1,0 +1,63 @@
+- ref: about
+  de:
+    name: Über Mich
+    link: /de/über.html
+  en:
+    name: About Me
+    link: /en/about.html
+
+- ref: coaching
+  de:
+    name: Coaching/Therapie
+    link: /de/coaching.html
+  en:
+    name: Coaching/Therapy
+    link: /en/coaching.html
+
+- ref: nutrition
+  de:
+    name: Ernährung
+    link: /de/ernährung.html
+  en:
+    name: Nutrition
+    link: /en/nutrition.html
+
+- ref: constellations
+  de:
+    name: Aufstellungen
+    link: /de/aufstellungen.html
+  en:
+    name: Constellations
+    link: /en/constellations.html
+
+- ref: astrology
+  de:
+    name: Astrologie
+    link: /de/astrologie.html
+  en:
+    name: Astrology
+    link: /en/astrology.html
+
+- ref: homeopathy
+  de:
+    name: Homöopathie
+    link: /de/homöopathie.html
+  en:
+    name: Homeopathy
+    link: /en/homeopathy.html
+
+- ref: bitsandpieces
+  de:
+    name: Dies & Das
+    link: /de/diesunddas.html
+  en:
+    name: Bits & Pieces
+    link: /en/bitsandpieces.html
+
+- ref: blog
+  de:
+    name: Blog
+    link: /de/blog.html
+  en:
+    name: Blog
+    link: /en/blog.html

@@ -1,29 +1,15 @@
 ---
-title: "Mrs. Free"
+layout: shell
+title: Home
+lang: de
 ---
-<!DOCTYPE html>
-<html lang="de-DE">
-	<head>
-		<title>{{ page.title }}</title>
-		<meta charset="utf-8">
-		<meta name="theme-color" content="#00a8d0">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<link href="style.css" rel="stylesheet" type="text/css">
-	</head>
-	<body>
-		<div class="whitecloud" id="title">{{ page.title }}</div>
-		<div class="whitecloud" id="subtitle">erklärt die Welt</div>
-		<nav class="whitecloud">
-			<a href="about.html"><span>Über Mich		</span></a>
-			<a href="about.html"><span>Astrologie		</span></a>
-			<a href="about.html"><span>Coaching			</span></a>
-			<a href="about.html"><span>Ernährung		</span></a>
-			<a href="about.html"><span>Aufstellungen	</span></a>
-			<a href="about.html"><span>Links			</span></a>
-			<a href="about.html"><span>Bücher			</span></a>
-			<a href="about.html"><span>Musik			</span></a>
-			<a href="about.html"><span>Preise			</span></a>
-			<a href="about.html"><span>Blog				</span></a>
-		</nav>
-	</body>
-</html>
+<br>
+<div class="whitecloud" id="greeter">
+	<h1 id="title">{{ site.data.common[page.lang].title }}</h1>
+	<h3 id="subtitle">{{ site.data.common[page.lang].subtitle }}</h2>
+</div>
+<nav class="whitecloud">
+	{% for item in site.data.nav %}
+		<a href="{{ item[page.lang].link }}"><span>{{ item[page.lang].name }}</span></a>
+	{% endfor %}
+</nav>
