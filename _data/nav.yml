@@ -1,66 +1,66 @@
 - ref: about
   de:
     name: Über Mich
-    link: /de/über.html
+    link: /de/über
   en:
     name: About Me
-    link: /en/about.html
+    link: /en/about
 
 - ref: coaching
   de:
     name: Coaching/Therapie
-    link: /de/coaching.html
+    link: /de/coaching
   en:
     name: Coaching/Therapy
-    link: /en/coaching.html
+    link: /en/coaching
 
 - ref: nutrition
   de:
     name: Ernährung
-    link: /de/ernährung.html
+    link: /de/ernährung
   en:
     name: Nutrition
-    link: /en/nutrition.html
+    link: /en/nutrition
 
 - ref: constellations
   de:
     name: Aufstellungen
-    link: /de/aufstellungen.html
+    link: /de/aufstellungen
   en:
     name: Constellations
-    link: /en/constellations.html
+    link: /en/constellations
 
 - ref: astrology
   de:
     name: Astrologie
-    link: /de/astrologie.html
+    link: /de/astrologie
   en:
     name: Astrology
-    link: /en/astrology.html
+    link: /en/astrology
 
 - ref: homeopathy
   de:
     name: Homöopathie
-    link: /de/homöopathie.html
+    link: /de/homöopathie
   en:
     name: Homeopathy
-    link: /en/homeopathy.html
+    link: /en/homeopathy
 
 - ref: bitsandpieces
   de:
     name: Dies & Das
-    link: /de/diesunddas.html
+    link: /de/diesunddas
   en:
     name: Bits & Pieces
-    link: /en/bitsandpieces.html
+    link: /en/bitsandpieces
 
 - ref: blog
   de:
     name: Blog
-    link: /de/blog.html
+    link: /de/blog
   en:
     name: Blog
-    link: /en/blog.html
+    link: /en/blog
 
 - ref: home
   de:
@@ -74,8 +74,8 @@
 - ref: imprint
   de:
     name: Impressum
-    link: /de/impressum.html
+    link: /de/impressum
   en:
     name: Legal Info
-    link: /en/imprint.html
+    link: /en/imprint
   hidden: true
