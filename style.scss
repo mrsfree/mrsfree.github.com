@@ -4,6 +4,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
+@font-face {
+	font-family: 'Amatic SC';
+	src: url('/assets/fonts/AmaticSC-Bold.woff2') format('woff2');
+}
+
 html {
 	height: 110%;
 	width: 100%;
@@ -47,7 +52,7 @@ body {
 
 nav {
 	font-size: calc(3vmin + 24px);
-	max-width: 100vmin;
+	max-width: 80vmin;
 	margin: 10vmin auto;
 	display: flex;
 	flex-wrap: wrap;
@@ -56,8 +61,11 @@ nav {
 
 }
 
-nav a, header a {
+a {
 	color: inherit;
+}
+
+nav a, header a {
 	text-decoration: inherit;
 	height: 100%;
 	margin: .2em .4em;
@@ -71,25 +79,7 @@ nav a, header a {
 
 }
 
-h1 { font-size: calc(10vmin + 24px); margin-bottom: .2em }
-h2 { font-size: calc( 6vmin + 24px) }
-h3 { font-size: calc( 4vmin + 24px) }
-h4 { font-size: calc( 2vmin + 24px) }
-p  { font-size: calc( 1vmin + 16px) }
-
-main {
-	margin: auto;
-	width: calc(90% - 32px);
-	max-width: 640px;
-	padding: 16px;
-	padding-top: 0px;
-
-	p {
-		text-align: justify;
-	}
-}
-
-header{
+header {
 	margin-top: 10px;
 	width: 100%;
 
@@ -102,15 +92,33 @@ header{
 			display: inline-block;
 
 			&:not(:first-child):before {
-				content: "•"
+				content: "•";
 			}
 
 		}
 	}
 }
 
-figure#portrait {
+h1 { font-size: calc(10vmin + 24px); margin: .2em }
+h2 { font-size: calc( 6vmin + 24px); margin: .2em }
+h3 { font-size: calc( 4vmin + 24px); margin: .2em }
+h4 { font-size: calc( 2vmin + 24px); margin: .2em }
+h5 { font-size: calc( 1vmin + 24px); margin: .2em }
+p  { font-size: calc( 1vmin + 16px) }
 
+main {
+	margin: 2em auto;
+	width: calc(90% - 32px);
+	max-width: 640px;
+	padding: 16px;
+	padding-top: 0px;
+
+	p, li, td {
+		text-align: justify;
+	}
+}
+
+figure#portrait {
 	float: right;
 	margin: 0 0 .5em 1em;
 
@@ -130,5 +138,14 @@ figure#portrait {
 		float: none;
 
 		img { margin: auto; }
+	}
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+
+	tr {
+		border-bottom: 1px solid #000577;
 	}
 }

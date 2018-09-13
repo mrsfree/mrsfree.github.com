@@ -24,5 +24,11 @@
 				{{ imprint.first[page.lang].name }}
 			</a>
 		</li>
+		<li>
+			{% assign contact=site.data.nav | where:"ref", "contact" %}
+			<a href="{{ contact.first[page.lang].link }}">
+				{{ contact.first[page.lang].name }}
+			</a>
+		</li>
 	</ul>
 </header>

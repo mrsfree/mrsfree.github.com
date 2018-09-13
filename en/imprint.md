@@ -4,14 +4,10 @@ title: Legal Info
 lang: en
 ref: imprint
 ---
-My coaching is not an alternative or a replacement for seeing your
-medical care provider.
+### Disclaimer
 
-I work with you in the assumption that any serious health conditions,
-mentally or otherwise, are treated by a professional.
+My services are offered as a complementary intervention/approach, and not an
+alternative or a replacement for seeing your medical care provider.
 
-I assume you are in proper treatment if needed and understand the
-services that I offer as an accompanying measure
-
-On this site I am sharing my personal experiences and those of my
-friends and family.
+I work with you on the assumption that any serious health conditions, mental
+or otherwise, are treated by a medical professional.

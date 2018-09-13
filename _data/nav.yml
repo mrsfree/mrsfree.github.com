@@ -27,7 +27,7 @@
     name: Aufstellungen
     link: /de/aufstellungen
   en:
-    name: Constellations
+    name: Constellation Work
     link: /en/constellations
 
 - ref: astrology
@@ -45,6 +45,14 @@
   en:
     name: Homeopathy
     link: /en/homeopathy
+
+- ref: pricing
+  de:
+    name: Preise
+    link: /de/preise
+  en:
+    name: Fees
+    link: /en/pricing
 
 - ref: bitsandpieces
   de:
@@ -73,9 +81,18 @@
 
 - ref: imprint
   de:
-    name: Impressum
+    name: Impressum & Datenschutz
     link: /de/impressum
   en:
     name: Legal Info
     link: /en/imprint
+  hidden: true
+
+- ref: contact
+  de:
+    name: Kontakt
+    link: /de/kontakt
+  en:
+    name: Contact
+    link: /en/contact
   hidden: true
