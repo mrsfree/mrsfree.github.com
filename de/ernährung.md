@@ -69,3 +69,28 @@ sättigt.
 Knochenbrühe ist besser als "Nahrungsergänzungsmittel", um den Körper
 mit Mineralien und Aminosäuren zu versorgen. Knohenbrühe hilft, eine
 angegriffene Darmschleimhaut zu reparieren.
+
+### Was haben Essen und Psychotherapie miteinander zu tun? Ist das nicht zweierlei?
+
+Das "falsche", also in der Regel wenig "artgerechte" und eher mehr oder weniger ungesunde Essen, das 90% eines normalen Supermarkts füllt (und immer noch weit mehr als 50% eines "Bio"Markts...) führt zu einer deutlichen Zunahme vieler chronischer Krankheiten.
+
+Besseres Essen ist also oft eine ideale begleitende Massnahme bei z.B. Diabetes, Magen-Darm-Krankheiten, Hashimoto's, Allergien, etc.
+
+Überraschender ist vielleicht, daß auch viele "psychische" Störungen extrem von einer Ernährungsumstellung profitieren können: Angst-Störungen, Konzentrationstörungen ("ADHS" etc.), Depressionen (siehe dazu bitte auch den Disclaimer!),  Reizbarkeit und Stimmungsschwankungen.
+Dietrich Klinghardt hat einmal - sinngemäß - gesagt, daß die meisten "psychischen" Störungen vermutlich organische Ursachen haben - und die "körperlichen" Krankheiten eher psychisch bedingt sind. Zumindest als Tendenz würde ich das aus meiner Erfahrung bestätigen. Es lohnt sich jedenfalls, in diese Richtung und etwas "quer" zu denken.
+
+Besonders wenn sich die "psychische" Erkrankung oder Befindlichkeitsstörung bisher Therapie-resistent gezeigt hat. Wenn das "drüber Reden" also nicht hilft.
+
+Wenn der Körper zum Beispiel kein Gluten verträgt (und das kann oft auch ohne nachweisbare "Zöliakie" der Fall sein), ist Gluten-haltiges Essen ein permanenter Stressor - und nicht nur der Darm, auch die Psyche sind entsprechend "gereizt".
+
+Unser Haushalt ist deutlich friedlicher geworden, seit wir alle kein Gluten und keinen Zucker mehr zu uns nehmen.
+Das Weglassen verschiedener mehr oder weniger  unverträglicher Nahrungsmittel führt oft zu einer deutlichen Entlastung auch und vor Allem der Psyche.
+Auch die Schulmedizin weiß z.B. daß eine überlastete Leber mit schlechter Laune einhergeht. Eine ent-lastete Leber lässt uns deutlich optimistischer auf's Leben schauen - auch wenn sich da im "Außen" gar nichts verändert hat. Ein immer wieder eindrucksvoller Unterschied im Leben meiner Klienten.
+
+Aus diesem "Stress"-Abbau auf einer körperlichen Ebene ergibt sich dann oft ein neuer Spielraum, um mit den psychischen Themen oder Problem neu, anders und kreativer umzugehen.
+
+Umgekehrt ist es aber auch so, daß gerade frühkindliche Traumata - und das kann schon eine zu frühe Trennung von der Mutter sein - ein Echo finden können in Schwierigkeiten des Verdauungs- und Immunsystems. Dass der Körper also den frühen "psychischen" Schmerz in ein "Bauch-Aua" Symptom übersetzt, ganz besonders dann, wenn das traumatisierende Ereignis in einer vor-sprachlichen Phase stattgefunden hat. (Mehr dazu bei Bessel van der Kolk:
+Verkörperter Schrecken: Traumaspuren in Gehirn, Geist und Körper)
+Wenn wir dann die alte Erfahrung, zum Beispiel mit einer Familienaufstellung, wieder erlebbar und begreifbar machen, wenn der alte Schmerz jetzt endlich von einem ausgebildeten präfrontalen Cortex verarbeitet und verstanden werden kann - dann können sich oft auch die körperlichen Symptome leichter verabschieden.
+
+Aus diesen Überlegungen und Erfahrungen heraus arbeite ich gerne parallel und synergistisch an "Verdauungsstörungen" der körperlichen und seelischen Art..

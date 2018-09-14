@@ -5,13 +5,16 @@ lang: de
 ref: pricing
 ---
 
+Ein 30minütiges Vorgespräch/Kennenlernen ist kostenfrei. Telefonisch
+oder persönlich.
+
  Beratung | Dauer | Preis
 ----------|-------|-------
 Erstberatung | 30 Minuten | Gratis
 Therapie/&#8203;Coaching/&#8203;Aufstellung | 60 Minuten | € 60
 Ernährungsberatung<br>(incl. Supplement-Empfehlungen) | 2 Stunden | € 120
 Astrologische Beratung | 1,5-2 Stunden | € 120
-"Perspektivenwechsel-Paket"<br>= Astro-Beratung +&nbsp;Ernährungsberatung<br>+ 2 Stunden "freie Auswahl" | 6,5-7 Stunden | € 300
+"Perspektivenwechsel-Paket"<br> =&nbsp;Astro-Beratung +&nbsp;Ernährungsberatung<br>+&nbsp;2 Stunden "freie Auswahl" | 6,5-7 Stunden | € 300
 Therapie/&#8203;Coaching | 10 x 60 Minuten | € 500
 Ernährungsberatung für Kinder oder Schwangere | 2 Stunden | € 60
 
