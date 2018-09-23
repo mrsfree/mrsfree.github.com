@@ -5,8 +5,9 @@ lang: en
 ref: pricing
 ---
 
-I offer a 30 min "getting to know me" free of charge. Either by phone or
-in person.
+I offer a complimentary 30-min “getting to know me" conversation, either via phone or in person.
+
+Skype can be arranged if necessary - but I'm not a huge fan of cameras, sorry.
 
  Consultation | Duration | Fee
 --------------|----------|------

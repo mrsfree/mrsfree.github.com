@@ -9,7 +9,7 @@ als Kind, dass ich entweder Ärztin oder Apothekerin werden wollte.
 
 <figure id="portrait">
 	<img alt="Portrait Katharina Winkels" src="/img/portrait.jpg">
-	<figcaption>Katharina Winkels (Foto von Natascha Stellmach)</figcaption>
+	<figcaption>Katharina Winkels</figcaption>
 </figure>
 
 Mit 16, kurz vor dem Abitur, kam mir dann Punkrock & politisches

@@ -21,6 +21,36 @@ Maßnahme.
 Ich teile auf dieser Seite meine persönlichen Erfahrungen, die meiner
 Familie und meiner Freunde
 
+### Geschäftliche Daten
+
+#### Gesetzliche Berufsbezeichnung
+
+Heilpraktiker für Psychotherapie
+
+Anerkennung der Berufsbezeichnung durch das Gesundheitsamt Berlin, Deutschland am 21.2.2011
+
+#### Zuständige Aufsichtsbehörde
+
+Gesundheitsamt Berlin, Lichtenberg
+
+#### Berufsrechtliche Regelungen
+
+Gesetz über die berufsmäßige Ausübung der Heilkunde ohne ärztliche Bestallung
+(Heilpraktikergesetz) und Durchführungsverordnung:
+
+1. <http://www.gesetze-im-internet.de/heilprg/index.html>
+2. <http://www.gesetze-im-internet.de/heilprgdv_1/index.htm>
+
+#### Berufsordnung für Heilpraktiker (BOH)
+
+Nachzulesen im Internet unter <https://www.vfp.de/images/stories/psy-vfp/downloads/berufsordnung-1-und-2.pdf>
+
+#### Hinweis zur Umsatzsteuer:
+
+Heilkundliche Tätigkeit ist von der Umsatzsteuer nach gemäß § 4, Nr. 14 UStG befreit.
+
+Steuernummer 14/593/00553 Finanzamt Friedrichshain-Kreuzberg
+
 <h3 id="impressum">Impressum</h3>
 
 #### Angaben gemäß § 5 TMG

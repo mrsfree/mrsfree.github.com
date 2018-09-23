@@ -9,7 +9,7 @@ wanted to become either a physician or work in a pharmaceutical company.
 
 <figure id="portrait">
 	<img alt="Portrait Katharina Winkels" src="/img/portrait.jpg">
-	<figcaption>Katharina Winkels (Photo by Natascha Stellmach)</figcaption>
+	<figcaption>Katharina Winkels</figcaption>
 </figure>
 
 At 16, shortly before I finished school, I discovered punk and politics.
