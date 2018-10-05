@@ -7,24 +7,21 @@ ref: about
 Ich stamme aus einer Medizinerfamilie - und eigentlich wusste ich schon
 als Kind, dass ich entweder Ärztin oder Apothekerin werden wollte.
 
-<figure id="portrait">
-	<img alt="Portrait Katharina Winkels" src="/img/portrait.jpg">
-	<figcaption>Katharina Winkels</figcaption>
-</figure>
+{% include portrait.html %}
 
 Mit 16, kurz vor dem Abitur, kam mir dann Punkrock & politisches
 Erwachen dazwischen. Nach einer eigenen schweren Krankheit wurde mir klar,
 dass die Schulmedizin nicht so allmächtig war, wie ich bis dahin angenommen
-hatte. Und daß Pharmaindustrie möglichweise auch andere Ziele verfolgte
+hatte. Und dass Pharmaindustrie möglichweise auch andere Ziele verfolgte
 als nur die Menschheit gesünder zu machen.
 
 Mit 14 Jahren, nach der Scheidung meiner Eltern, war ich magersüchtig
 geworden - ein weiterer Anlass, mir Fragen zu stellen, wie: Was ist
-eigentlich "gesund" und was ist "krank"? Welches Menschen- und
+eigentlich <q>gesund</q> und was ist <q>krank</q>? Welches Menschen- und
 Gesundheitsbild liegt dem zugrunde? Wie hängen Körper und Seele
-zusammen? Wie "krank" ist das Individuum, wie krank ist die Gesellschaft?
+zusammen? Wie <q>krank</q> ist das Individuum, wie krank ist die Gesellschaft?
 
-Ich las "Krankheit als Weg" und versuchte es erstmal mit einem Studium
+Ich las <q>Krankheit als Weg</q> und versuchte es erstmal mit einem Studium
 der Philosophie, in der Hoffung, da Antworten zu finden. Was ich
 stattdessen fand, im Vorraum der Mensa, war ein Plattenstand, Musik wurde
 wichtiger als die Uni.(Oh Bondsage! Up yours...)
@@ -39,11 +36,11 @@ Astrologie und arbeitete in einer homöopathischen Praxis. In der Folge
 davon begann ich ein Medizinstudium, das ich nach ein paar Jahren
 frustriert abgebrochen habe. Ich heiratete und bekam 3 Kinder.
 
-Kurz vor meiner Heirat schenkte mir jemand "ORDNUNGEN DER LIEBE" und ich
+Kurz vor meiner Heirat schenkte mir jemand <q>ORDNUNGEN DER LIEBE</q> und ich
 wusste sofort: Das ist es! Das will ich!
 
 Vor dem dritten Kind habe ich dann zum ersten Mal an einer Aufstellung
-teilgenommen und 2011 eine Ausbildung gemacht (als ich "den Richtigen"
+teilgenommen und 2011 eine Ausbildung gemacht (als ich <q>den Richtigen</q>
 gefunden hatte).
 
 Als meine Kinder begannen, verschiedene allergische Symptome zu zeigen,
@@ -55,6 +52,6 @@ wieder anders als Zucker- und Gluten-frei leben.
 
 Seitdem berate ich auch andere Menschen bei Ihrer Ernährungsumstellung.
 Oft ergibt sich ein begleitendes Coaching/Psychotherapie, weil in
-Verbindung mit dem Thema "Essen" so viele andere Themen aufsteigen können,
+Verbindung mit dem Thema <q>Essen</q> so viele andere Themen aufsteigen können,
 und es dann extrem effizient und sinnvoll ist, an beiden Ebenen parallel
-zu arbeiten, "Körper" und "Seele" - und der Verbindung von beidem.
+zu arbeiten, <q>Körper</q> und <q>Seele</q> - und der Verbindung von beidem.

@@ -1,6 +1,6 @@
 ---
 ---
-/* @import "main"; */
+/* @import <q>main"; */
 
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
@@ -10,11 +10,10 @@
 }
 
 html {
-	height: 110%;
+	height: 100%;
 	width: 100%;
 	background: url(img/bg-small.jpg) no-repeat center top fixed;
 	background-size: cover;
-	transform: translate3d(0,0,0);
 }
 
 body {

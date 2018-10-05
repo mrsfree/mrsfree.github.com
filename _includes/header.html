@@ -1,6 +1,6 @@
 <header class="whitecloud">
 	<ul>
-		{% if page.title != "Home" %}
+		{% if page.title != <q>Home</q> %}
 			<li>
 				{% assign home=site.data.nav | where:"ref", "home" %}
 				<a href="{{ home.first[page.lang].link }}">

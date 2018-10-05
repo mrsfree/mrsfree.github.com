@@ -14,7 +14,7 @@ Erstberatung | 30 Minuten | Gratis
 Therapie/&#8203;Coaching/&#8203;Aufstellung | 60 Minuten | € 60
 Ernährungsberatung<br>(incl. Supplement-Empfehlungen) | 2 Stunden | € 120
 Astrologische Beratung | 1,5-2 Stunden | € 120
-"Perspektivenwechsel-Paket"<br> =&nbsp;Astro-Beratung +&nbsp;Ernährungsberatung<br>+&nbsp;2 Stunden "freie Auswahl" | 6,5-7 Stunden | € 300
+<q>Perspektivenwechsel-Paket</q><br> =&nbsp;Astro-Beratung +&nbsp;Ernährungsberatung<br>+&nbsp;2 Stunden <q>freie Auswahl</q> | 6,5-7 Stunden | € 300
 Therapie/&#8203;Coaching | 10 x 60 Minuten | € 500
 Ernährungsberatung für Kinder oder Schwangere | 2 Stunden | € 60
 

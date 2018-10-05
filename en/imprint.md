@@ -14,7 +14,7 @@ or otherwise, are treated by a medical professional.
 
 ### Impressum & Datenschutz
 
-The "Impressum" and the "Datenschutzerklärung"
+The <q>Impressum</q> and the <q>Datenschutzerklärung</q>
 (Legally required in Germany/EU respectively)
 are only available in german and can be found
 on the [German version](/de/impressum) of this site.
