@@ -8,6 +8,7 @@
 				</a>
 			</li>
 		{% endif %}
+		{% if page.ref %}
 		<li>
 			{% assign refs=site.data.nav | where:"ref", page.ref %}
 			<a href="{% if page.lang == 'en' %}
@@ -18,6 +19,7 @@
 				{{ site.data.common[page.lang].langswitch }}
 			</a>
 		</li>
+		{% endif %}
 		<li>
 			{% assign imprint=site.data.nav | where:"ref", "imprint" %}
 			<a href="{{ imprint.first[page.lang].link }}">

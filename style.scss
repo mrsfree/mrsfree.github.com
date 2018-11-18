@@ -64,7 +64,7 @@ a {
 	color: inherit;
 }
 
-nav a, header a {
+nav a, header a, #bloglist a {
 	text-decoration: inherit;
 	height: 100%;
 	margin: .2em .4em;
@@ -113,7 +113,7 @@ main {
 	padding: 16px;
 	padding-top: 0px;
 
-	p {
+	p, td, p + ul {
 		font-family: sans-serif;
 		font-weight: normal;
 		font-size: calc( .5vmin + 12px);
@@ -155,4 +155,18 @@ table {
 	tr {
 		border-bottom: 1px solid #000577;
 	}
+}
+
+#bloglist {
+	list-style-type: none;
+	padding: 0;
+
+	a {
+		display: block;
+	}
+
+	h3, h4, h5, h6 {
+		text-align: center;
+	}
+
 }

@@ -6,7 +6,7 @@ ref: astrology
 ---
 Astrologie ist für mich das beste Werkzeug zur Positionsbestimmung eines Menschen:
 
-Wo befinde ich mich auf meinem Lebensweg? Wo komme ich her, wo will ich hin? Wo soll ich hin? Gehen das <q>Wollen</q> and das <q>Sollen</q> in die gleiche Richtung?
+Wo befinde ich mich auf meinem Lebensweg? Wo komme ich her, wo will ich hin? Wo soll ich hin? Gehen das <q>Wollen</q> und das <q>Sollen</q> in die gleiche Richtung?
 
 Und vor Allem: Wann stehe ich an einer Wegkreuzung und habe die Wahl, wo und wie es für mich weitergeht?
 
