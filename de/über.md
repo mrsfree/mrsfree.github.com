@@ -7,7 +7,7 @@ ref: about
 Ich stamme aus einer Medizinerfamilie - und eigentlich wusste ich schon
 als Kind, dass ich entweder Ärztin oder Apothekerin werden wollte.
 
-{% include portrait.html %}
+{% include sideimg.html src="/img/portrait.jpg" maxwidth="300px" caption="Katharina Winkels" alt="Portrait von Katharina Winkels" %}
 
 Mit 16, kurz vor dem Abitur, kam mir dann Punkrock & politisches
 Erwachen dazwischen. Nach einer eigenen schweren Krankheit wurde mir klar,

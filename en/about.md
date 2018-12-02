@@ -7,7 +7,7 @@ ref: about
 My mother taught medicine at the university - and I knew at age 5 that I
 wanted to become either a physician or work in a pharmaceutical company.
 
-{% include portrait.html %}
+{% include sideimg.html src="/img/portrait.jpg" maxwidth="300px" caption="Katharina Winkels" alt="Portrait of Katharina Winkels" %}
 
 At 16, shortly before I finished school, I discovered punk and politics.
 After a severe liver disease that conventional medicine could not help

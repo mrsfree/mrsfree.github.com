@@ -125,7 +125,7 @@ main {
 	}
 }
 
-figure#portrait {
+figure#portrait, figure.sideimg {
 	float: right;
 	margin: 0 0 .5em 1em;
 
@@ -144,7 +144,9 @@ figure#portrait {
 		margin: auto;
 		float: none;
 
-		img { margin: auto; }
+		img {
+			margin: auto;
+		}
 	}
 }
 
@@ -163,6 +165,7 @@ table {
 
 	a {
 		display: block;
+		margin: 2em 0;
 	}
 
 	h3, h4, h5, h6 {
