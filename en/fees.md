@@ -15,7 +15,7 @@ Introductory Consultation | 30 Minutes | Free
 Therapy/&#8203;Coaching | 60 Minutes | € 60
 Nutritional Consultating | 2 Hours | € 120
 Astrological Reading | 2 Hours | € 120
-Life-makeover-package<br> =&nbsp;Astrology +&nbsp;Nutritional Consultation<br>+&nbsp;2 hours coaching | 7 Hours | € 300
+Life-makeover-package<br> =&nbsp;Astrology +&nbsp;Nutritional Consultation<br>+&nbsp;2 hours coaching | 5.5-6 Hours | € 300
 Therapy/&#8203;Coaching | 10 x 60 Minutes | € 500
 
 I offer special discounts for pregnant women and children, since that is
